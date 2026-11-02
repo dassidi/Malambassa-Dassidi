@@ -90,7 +90,7 @@ Français · Anglais (professionnel) · Espagnol
 ## 📫 Me contacter
 
 - 📧 Malambassadassidi@outlook.com
-- 💼 LinkedIn : *[lien à compléter]*
+- 💼 LinkedIn :(https://www.linkedin.com/in/malambassa-dassidi-112320246/)
 - 📍 Nantes, France
 
 > 🔍 **À la recherche** d'une alternance / de missions en **data analyse, BI et data engineering**.
