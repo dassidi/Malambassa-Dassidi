@@ -1,6 +1,6 @@
 Title: "MALAMBASSA DASSIDI"
 Logo: 
 Descriptions: "Portfolio Data: Analyse, Engineering, Formations"
-Show-downloads:
-theme: 
-lang: 
+Show-downloads: true
+theme: jekyll-theme-minimal 
+lang: fr
